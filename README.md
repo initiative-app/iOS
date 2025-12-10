@@ -1,3 +1,5 @@
+<img src="icon.png" width="120" alt="Initiative app icon"/>
+
 # Initiative iOS app
 
 ### 🇧🇷 Documentos Legais
