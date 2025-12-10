@@ -45,3 +45,8 @@ Nenhum código-fonte é armazenado aqui.
 ## 🇺🇸 About this Repository
 This repository hosts the public legal documents (EULA and Privacy Policy) for the Initiative iOS application.  
 No source code is stored here.
+
+#
+
+### 🇧🇷 Suporte | 🇺🇸 Support
+email: initiative.rpg.suporte@gmail.com
