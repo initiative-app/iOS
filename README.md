@@ -15,30 +15,23 @@
 #
 
 ### 🇧🇷 Sobre o App
-A Initiative foi criada para auxiliar e aprimorar a experiência de jogo de RPG de mesa por meio de missões narrativas personalizadas e acompanhamento visual das sessões, com o objetivo de reforçar o senso de cooperação e explorar conexões emocionais significativas para manter o engajamento, mesmo com longos períodos entre as sessões.
-Atualmente, você pode:
-- Criar campanhas e adicionar jogadores ao grupo;
-- Adicionar informações básicas sobre a campanha;
-- Enviar missões como uma forma de reacender a chama da campanha nos jogadores.
-- Com elas, é possível rolar dados que podem influenciar ações em sessões futuras (revelando ou não as consequências no momento), enviar mensagens como o seu personagem (relembrando interações ocorridas no passado, por exemplo) e oferecer aos jogadores escolhas a serem feitas com base em seus personagens.
-- Como mestre de jogo, isso permite obter feedback dos membros do grupo, incluir novas informações de lore, vilões à espreita dos jogadores ou até revelar segredos.
-- Interagir com as missões enviadas
-- Alterar temas do aplicativo para aumentar a imersão conforme a campanha em andamento.
+A aventura não termina quando a sessão acaba! Initiative é o app criado para combater o "hiato" entre sessões, mantendo a chama da sua história acesa mesmo quando vocês estão longe da mesa. Aqui, mestre e jogadores continuam construindo a história juntos, veja como:
+- Missões Narrativas: Com esse recurso, é possível manter o engajamento da party ativo mesmo após longos períodos sem jogar. Role dados para testar a sorte do seu personagem em situações que podem influenciar as próximas sessões. Envie mensagens e tome decisões como seu personagem, responda a um chamado, investigue um rumor ou relembre aquele encontro onde a história do seu grupo começou. Cada escolha importa. Os resultados podem ser usados para revelar segredos, apresentar vilões à espreita ou alterar o rumo da campanha.
+- Gestão de Campanha: Crie campanhas, organize e visualize sua party com facilidade. Centralize as informações vitais e o tom da aventura.
+- Imersão Visual: Ajuste o tema do aplicativo para combinar com a vibe do seu jogo, seja fantasia medieval, terror ou sci-fi. A interface se adapta à sua história.
+Para o Mestre, o Initiative é a ferramenta para medir o interesse, introduzir lore sem ocupar tempo de sessão e obter feedback orgânico. Para os Jogadores, é a chance de manter seu personagem vivo em sua mente e aprofundar conexões com o grupo.
 
 AO INSTALAR, ACESSAR OU UTILIZAR O APLICATIVO, VOCÊ RECONHECE QUE LEU, COMPREENDEU E CONCORDA EM FICAR VINCULADO AOS TERMOS DO EULA E À POLÍTICA DE PRIVACIDADE.
 
 #
 
 ### 🇺🇸 About the App
-Initiative was created to assist and enhance the tabletop RPG experience through personalized narrative missions and visual session tracking, aiming to reinforce the sense of cooperation and explore meaningful emotional connections that help maintain engagement—even during long breaks between sessions.
-Currently, you can:
-- Create campaigns and add players to the party;
-- Add basic information about the campaign;
-- Send missions as a way to rekindle the campaign’s spark for players;
-- Use missions to roll dice that may influence actions in future sessions (whether or not their consequences are revealed at the time), send messages as your character (such as recalling past interactions), and offer players choices based on their characters;
-- As the game master, collect feedback from party members, add new lore details, introduce villains lurking in the shadows, or even reveal secrets;
-- Interact with the missions you send;
-- Change the app’s themes to increase immersion according to the ongoing campaign.
+The adventure doesn’t end when the session is over! Initiative is the app created to bridge the “gap” between sessions, keeping the flame of your story alive even when you’re away from the table. Here, Game Masters and players keep building the story together—here’s how:
+- Narrative Quests: With this feature, you can keep the party engaged even after long pauses between sessions. Roll dice to test your character’s luck in situations that may influence upcoming sessions. Send messages and make decisions as your character—answer a call for help, investigate a rumor, or revisit the moment when your group’s story began. Every choice matters. The results can reveal secrets, introduce lurking villains, or shift the direction of the campaign.
+- Campaign Management: Create campaigns, organize your party, and view everything with ease. Centralize vital information and the adventure’s tone.
+- Visual Immersion: Adjust the app’s theme to match the vibe of your game—be it medieval fantasy, horror, or sci-fi. The interface adapts to your story.
+- For Game Masters, Initiative is the tool to measure engagement, introduce lore without taking session time, and gather organic feedback.
+- For Players, it’s the chance to keep their character alive in their minds and deepen connections with the group.
 
 BY INSTALLING, ACCESSING, OR USING THE APPLICATION, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE EULA AND THE PRIVACY POLICY.
 
